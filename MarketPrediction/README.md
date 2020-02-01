@@ -1,4 +1,4 @@
-#BPI_RNN
+# BPI_RNN
 
 A recurrent neural network for predicting the Bitcoin Price Index (BPI)
 
